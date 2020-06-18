@@ -39,7 +39,7 @@ public class UnknownPleasures extends JFrame {
             g.setColor(Color.WHITE);
             g2.setStroke(new BasicStroke(2));
 
-            Font font = new Font("Helvetica", PLAIN, 63);
+            Font font = new Font("Helvetica", PLAIN, 61);
             g.setFont(font);
             g.drawString("JOY DIVISION", 100,70);
 
